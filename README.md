@@ -1,4 +1,4 @@
-<img width="1600" height="1204" alt="image" src="https://github.com/user-attachments/assets/9b37906d-2f09-4ddc-81ac-b25795f6132f" /># EXPERIMENT-04-INTERRUPT-GENERATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR
+# EXPERIMENT-04-INTERRUPT-GENERATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR
 
 ###  DATE: 22/05/2026
 
@@ -714,14 +714,14 @@ void assert_failed(uint8_t *file, uint32_t line)
  ## Circuit board :
  # 4A:
 
-<img width="1600" height="702" alt="image" src="https://github.com/user-attachments/assets/54c78ea3-0596-45cb-9e37-f00bb3c327d2" />
+<img width="1600" height="702" alt="image" src="https://github.com/user-attachments/assets/54c78ea3-0596-45cb-9e37-f00bb3c327d2" /><br><br>
 
 
  # 4B:
- <img width="1600" height="1204" alt="image" src="https://github.com/user-attachments/assets/0becc70f-bcf9-49c9-9839-b28c1cd08d29" />
+ <img width="1600" height="1204" alt="image" src="https://github.com/user-attachments/assets/0becc70f-bcf9-49c9-9839-b28c1cd08d29" /><br><br>
 
 
-<img width="1600" height="1204" alt="image" src="https://github.com/user-attachments/assets/cb3edd12-fb82-470e-bad4-aa7709b2a2b0" />
+<img width="1600" height="1204" alt="image" src="https://github.com/user-attachments/assets/cb3edd12-fb82-470e-bad4-aa7709b2a2b0" /><br><br>
 
  
 
